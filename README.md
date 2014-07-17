@@ -8,7 +8,7 @@ getting started
 
 - clone repo
 - navigate to project directory
-- start monitor script `./monitor`
+- start monitor script `./monitor.sh`
 - prepare for annoyed looks from neighbors
 
 product roadmap
